@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(230, 237, 237);
+}
+.titltle {
+    font-size: large;
+  }
+  img {
+    width: 100px;
+    float: left;
+    margin-right: 10px;
+  }
+  .username {
+    font-weight: bold;
+    color: blue;
+    margin-top: 30px;
+  }
+  .moto {
+    color: blueviolet;
+  }
+  em {
+    color: darkmagenta;
+    font-style: normal;
+  }
+  #view {
+    color: blue;
+  }
+  #h {
+    text-align: center;
+  }
